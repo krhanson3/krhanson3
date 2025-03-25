@@ -4,7 +4,7 @@ I’m interested in programming and software engineering. I have experience in C
 Development, Digital Logic, Software Design, Spreadsheet Applications, and Engineering fundamentals, including General Physics & Calculus. 
 On campus, I'm involved in the Society of Women Engineers and Phi Sigma Rho, a social sorority for women in STEM.
 
-- ⚡ Fun fact: I like to fish, listen to Taylor Swift, and hangout with my cat playing video games. 
+Fun fact: I like to fish, listen to Taylor Swift, and hangout with my cat playing video games. 
 
 I'm excited to use this platform to share projects I've worked on in the past and work for classes I'm currently taking. 
  
